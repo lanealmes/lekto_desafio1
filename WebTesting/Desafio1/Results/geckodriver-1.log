@@ -1,0 +1,17 @@
+1710364581410	geckodriver	INFO	Listening on 127.0.0.1:61550
+1710364584545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileLlgBTi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710364585279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710364585417	Marionette	INFO	Listening on port 61558
+WebDriver BiDi listening on ws://127.0.0.1:61551
+Read port: 61558
+1710364585651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61551/devtools/browser/675e73a8-c048-4787-a853-c4a9f8026ffd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.lekto.com.br."
+1710364607884	Marionette	INFO	Stopped listening on port 61558
+JavaScript warning: https://unpkg.com/smoothscroll-anchor-polyfill, line 1: Script terminated by timeout at:
+x@https://unpkg.com/smoothscroll-anchor-polyfill:1:2997
+
+Dynamically enable window occlusion 1
