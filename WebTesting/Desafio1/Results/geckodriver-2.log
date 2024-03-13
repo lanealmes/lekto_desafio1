@@ -1,17 +1,18 @@
-1710364609581	geckodriver	INFO	Listening on 127.0.0.1:61637
-1710364612633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiletAugU3"
+1710369732136	geckodriver	INFO	Listening on 127.0.0.1:56876
+1710369735205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezNIKZ5"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1710364613112	Marionette	INFO	Marionette enabled
+1710369735619	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1710364613287	Marionette	INFO	Listening on port 61645
-WebDriver BiDi listening on ws://127.0.0.1:61638
-Read port: 61645
-1710364613561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-DevTools listening on ws://127.0.0.1:61638/devtools/browser/2991d30f-8166-457f-af3d-551ecef8bbc1
+1710369735749	Marionette	INFO	Listening on port 56884
+WebDriver BiDi listening on ws://127.0.0.1:56877
+Read port: 56884
+1710369735986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56877/devtools/browser/8cf13a3a-792f-41d4-b932-a303e532dc6d
+1710369765663	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.lekto.com.br."
-1710364633422	Marionette	INFO	Stopped listening on port 61645
-JavaScript warning: https://www.lekto.com.br/, line 16845: Script terminated by timeout at:
-render@https://www.lekto.com.br/:16845:23
+1710369958672	Marionette	INFO	Stopped listening on port 56884
+JavaScript warning: https://www.lekto.com.br/, line 16837: Script terminated by timeout at:
+render@https://www.lekto.com.br/:16837:49
 
 Dynamically enable window occlusion 1

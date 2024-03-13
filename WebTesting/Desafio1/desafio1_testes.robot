@@ -10,7 +10,7 @@ Library          OperatingSystem
 
 *** Test Cases ***
 
-Caso de Teste 01 - Agendar uma apresentação - EDUCADOR
+Caso de Teste 01 - Agendar uma apresentação - Educador
     [Documentation]    Esse teste realiza o  agendamento de uma apresentação.
     ...                Obs.:clicando no primeiro botão exibido "Agende uma Apresentação"
         
@@ -27,7 +27,7 @@ Caso de Teste 01 - Agendar uma apresentação - EDUCADOR
 Caso de Teste 02 - Agendar uma apresentação - Diretor(a)/Coordenador(a) Escolar
     [Documentation]    Esse teste realiza o  agendamento de uma apresentação.
     ...                Obs.:clicando no segundo botão exibido "Agende uma Apresentação"
-      
+   
 
         Acessar o home page do site https://www.lekto.com.br/ 
         Clicar no botão 2 "Agende uma apresentação"
@@ -40,9 +40,10 @@ Caso de Teste 02 - Agendar uma apresentação - Diretor(a)/Coordenador(a) Escola
         Validar mensagem de agendamento 
 
 
-Caso de Teste 03 - Agendar uma apresentação
+Caso de Teste 03 - Agendar uma apresentação - Família
     [Documentation]    Esse teste realiza o  agendamento de uma apresentação.
     ...                Obs.: Rolar até o final da página e preencher os itens da apresentação 
+ 
      
         Acessar o home page do site https://www.lekto.com.br/ 
         Descer a barra de rolagem até o fim da pagina
@@ -55,7 +56,7 @@ Caso de Teste 03 - Agendar uma apresentação
         Validar mensagem de agendamento  
       
 
-Caso de Teste 04 - Agendar uma apresentação - Diretor Escolar
+Caso de Teste 04 - Agendar uma apresentação - Dono de Academia ou Programa de Contraturno 
     [Documentation]    Esse teste realiza o  agendamento de uma apresentação.
     ...                Obs.:clicando no primeiro botão exibido "Agende uma Apresentação"
         
